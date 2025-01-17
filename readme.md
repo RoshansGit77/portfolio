@@ -1,0 +1,2 @@
+Welcome to my portfolio website! 👋 I'm Roshan, a passionate Java developer 💻 with expertise in backend and full-stack development. 🚀 Explore my projects, skills, and achievements in Java, Spring Framework, Hibernate, JSP, Servlet, relational databases like Mysql, Oracle and more. 🌟 Check out my work, from web apps to system designs, and see how I use technology to create impactful solutions. 💡 Let's connect! 🤝
+
